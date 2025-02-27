@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hendricks27&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hendricks27&count_private=true&langs_count=15&layout=compact&theme=dark)
 
-![github readme streak](https://github-readme-streak-stats.herokuapp.com/?user=hendricks27&theme=dark)
